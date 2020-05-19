@@ -1,0 +1,3 @@
+Sun Sep 22 20:24:06 IST 2019  --->  AMOUNT = 200
+Sun Sep 22 20:24:49 IST 2019  --->  AMOUNT = 200
+Sun Sep 22 20:25:05 IST 2019  --->  AMOUNT = 115
